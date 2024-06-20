@@ -1,0 +1,6 @@
+ opencv-python
+ scipy
+ torchvision
+ matplotlib
+ pandas
+ numpy
